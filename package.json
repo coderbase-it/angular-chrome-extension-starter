@@ -1,11 +1,11 @@
 {
-  "name": "coderbase-qr-code",
+  "name": "coderbase-angualr-chrome-extension-starter",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng build --watch --configuration=dev  --output-hashing none",
     "build": "ng build --prod --output-hashing none ",
-    "bundle": "ng build --prod --output-hashing none --stats-json && webpack-bundle-analyzer dist/coderbase-qr-code/stats.json ",
+    "bundle": "ng build --prod --output-hashing none --stats-json && webpack-bundle-analyzer dist/coderbase-angualr-chrome-extension-starter/stats.json ",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"

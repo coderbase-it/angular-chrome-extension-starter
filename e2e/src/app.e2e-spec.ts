@@ -10,7 +10,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('coderbase-qr-code app is running!');
+    expect(page.getTitleText()).toEqual('coderbase-angualr-chrome-extension-starter app is running!');
   });
 
   afterEach(async () => {

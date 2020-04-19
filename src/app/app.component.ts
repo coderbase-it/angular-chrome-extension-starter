@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'coderbase-qr-code';
+  title = 'coderbase-angualr-chrome-extension-starter';
 }
